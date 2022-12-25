@@ -17,11 +17,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Internet Connection
+- Credit/debit Card (Free 200 Azure credit)
+- Azure Account (Access portal)
+- Azure services Resource Group and Virtual Machine
+- RDP (Remote Desktop Connection) to enter are Virtual Machine
 
 <h2>Installation Steps</h2>
 
@@ -37,7 +37,7 @@ The purpose of the lab is to develop practical skills of a IT Help Desk Professi
 <img src="https://i.imgur.com/X6a3pHd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-These four Azure services will be are foundation for the assignment. I left out Azure storage from this list due to that service being touch once during the set up of the account.
+These two Azure services will be are foundation for the assignment.
 </p>
 <br />
 
@@ -68,4 +68,4 @@ After are VM is created we will head back into the VM services within Azure. Fro
 Now we have entered are public Ip address, there will be a prompt that appears to enter your credentials. These credentials were created earlier, enter those credentials. After that you will RDP into the VM, from there open upa web browser and enter the link listed here within your VM <a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a>
 </p>
 <br />
-<p>This will conclude the Prereq's for the osTicket Lab. The next steps for the lab are the configurations. <a href='https://github.com/DevilDog2001/post-install-config'>Link</a> </p>
+<p>This will conclude the Prereq's for the osTicket Lab. The next steps for the lab are the configurations. Next steps <a href='https://github.com/DevilDog2001/post-install-config'>OsTicket Configs.</a> </p>
