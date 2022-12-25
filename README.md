@@ -53,3 +53,19 @@ Now we are going to select are resource group. The resource group should be empt
 <p>
 Once the resource group is validated select create and headover to the virtual machine service within Azure. Select Create Vitural Machine, and the page displayed above with prompt. Select the resource group created (RG-LAB) and give the VM a name (ex.VM-osT). select your respected region and image select windows 10 Pro. Further below there will be size, select Standard_D4s-V3-4 Cpus and create any username and password for the administrator account (Document the username and password will be needed for LAB). Dont forget to check the licensing below as well and similar to previous step select Review + Create and are VM will be set. 
 </p>
+<br />
+<p>
+<img src="https://i.imgur.com/UyaZ78o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After are VM is created we will head back into the VM services within Azure. From there we will select the created VM and look for are Public Ip Address. As show above we will go into are windows search bar and find are RDP(Remote Desktop Connection)Tool and enter the Public Ip address.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/GLPC2p2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now we have entered are public Ip address, there will be a prompt that appears to enter your credentials. These credentials were created earlier, enter those credentials. After that you will RDP into the VM, from there open upa web browser and enter the link listed here within your VM <a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a>
+</p>
+<br />
+<p>This will conclude the Prereq's for the osTicket Lab. The next steps for the lab are the configurations. <a href='https://github.com/DevilDog2001/post-install-config'>Link</a> </p>
