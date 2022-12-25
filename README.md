@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Azure services Resource Group and Virtual Machine
 - RDP (Remote Desktop Connection) to enter are Virtual Machine
 
-<h2>Installation Steps</h2>
+<h2>Prerequisites Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/nN1GVPx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
