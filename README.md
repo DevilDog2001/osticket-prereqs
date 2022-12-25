@@ -68,4 +68,4 @@ After are VM is created we will head back into the VM services within Azure. Fro
 Now we have entered are public Ip address, there will be a prompt that appears to enter your credentials. These credentials were created earlier, enter those credentials. After that you will RDP into the VM, from there open upa web browser and enter the link listed here within your VM <a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a>
 </p>
 <br />
-<p>This will conclude the Prereq's for the osTicket Lab. The next steps for the lab are the configurations. Next steps <a href='https://github.com/DevilDog2001/post-install-config'>OsTicket Configs.</a> </p>
+<p>This will conclude the Prereq's for the osTicket Lab. The next steps for the lab are the configurations. Next steps <a href='https://github.com/DevilDog2001/post-install-config'>OsTicket Installation.</a> </p>
